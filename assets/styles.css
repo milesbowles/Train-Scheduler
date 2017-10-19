@@ -35,9 +35,9 @@ td {
     color: deepskyblue;
 }
 
-input, select, textarea{
+input {
     background: rgba(122, 130, 136, 0.5)!important;
-    color: deepskyblue;
+    color: deepskyblue!important;
 }
 
 textarea:focus, input:focus {
