@@ -12,6 +12,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/styles.css">
+
     <!-- Firebase Reference -->
     <script src="https://www.gstatic.com/firebasejs/4.5.2/firebase.js"></script>
 
@@ -27,9 +30,9 @@
 <div class="container">
 
     <!-- Jumbotron -->
-    <div class="jumbotron" style="background-color: black; color: white">
-        <h1 class="text-center">Train Scheduler</h1>
-        <h3 class="text-center">Full Steam ahead!</h3>
+    <div class="jumbotron">
+        <h1 id="header" class="text-center">Train Scheduler</h1>
+        <h3 class="text-center">Full Steam Ahead!</h3>
     </div>
 
     <div class="row">
@@ -37,7 +40,7 @@
         <div class="col-lg-12">
 
             <!-- Current Trains-->
-            <div class="panel panel-primary">
+            <div class="panel panel-primary panel-transparent">
                 <div class="panel-heading">
                     <h3 class="panel-title"><strong>Current Train Schedule</strong></h3>
                 </div>
@@ -59,7 +62,7 @@
             </div>
 
             <!-- Add Train  -->
-            <div class="panel panel-primary">
+            <div class="panel panel-primary panel-transparent">
                 <div class="panel-heading">
                     <h3 class="panel-title"><strong>Add Train</strong></h3>
                 </div>
