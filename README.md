@@ -6,10 +6,13 @@
     </a>
     <br>
     <p>
-        <em> View Project Here: <a href="https://milesbowles.github.io/Train-Scheduler/"></em>
+        <em><a href="https://milesbowles.github.io/Train-Scheduler/">View Project<a/></em>
     </p>
 </div>
 
-# A Simple Train Scheduling App 
+ 
+### Looking for a way to keep track of your busy train schedule?
 
-### Built with Firebase, Bootstrap and Moment.js
+#### Built with Firebase, Bootstrap and Moment.js, this site will allow you to keep track of your busy train schedule. Add trains and see how long until they arrive. Don't worry about losing your schedule, everything is backed up with Firebase's realtime database.
+
+#### Enjoy!
