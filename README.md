@@ -1,5 +1,3 @@
-<h1 align="center">Train Scheduler</h1>
-
 <div align="center">
     <a href="">
         <img src="https://github.com/milesbowles/Train-Scheduler/blob/master/assets/screenshot.png" alt="Train Scheduler" width="800"/>
@@ -11,7 +9,7 @@
 </div>
 
  
-### Looking for a way to keep track of your busy train schedule?
+## Looking for a way to keep track of your busy train schedule?
 
 #### Built with Firebase, Bootstrap and Moment.js, this site will allow you to keep track of your busy train schedule. Add trains and see how long until they arrive. Don't worry about losing your schedule, everything is backed up with Firebase's realtime database.
 
