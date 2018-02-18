@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="">
-        <img src="https://github.com/milesbowles/Train-Scheduler/blob/master/assets/screenshot.png" alt="Train Scheduler" width="400"/>
+        <img src="https://github.com/milesbowles/Train-Scheduler/blob/master/assets/screenshot.png" alt="Train Scheduler" width="800"/>
     </a>
     <br>
     <p>
