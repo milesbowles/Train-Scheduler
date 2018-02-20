@@ -1,6 +1,6 @@
 <div align="center">
     <a href="">
-        <img href="https://milesbowles.github.io/Train-Scheduler/" src="https://github.com/milesbowles/Train-Scheduler/blob/master/assets/screenshot.png" alt="Train Scheduler" width="800"/>
+        <img src="https://github.com/milesbowles/Train-Scheduler/blob/master/assets/screenshot.png" alt="Train Scheduler" width="800"/>
     </a>
     <br>
     <p>
