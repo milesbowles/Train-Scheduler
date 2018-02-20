@@ -4,7 +4,7 @@
     </a>
     <br>
     <p>
-        <em><a href="https://milesbowles.github.io/Train-Scheduler/">View Project<a/></em>
+        <em><a href="https://milesbowles.github.io/Train-Scheduler/">Check It Out!<a/></em>
     </p>
 </div>
 
